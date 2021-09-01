@@ -1,0 +1,48 @@
+/*background: linear-gradient(0.25turn,#0000a5, #000000);*/
+
+h1 {text-align: center;
+    background: -webkit-linear-gradient( #290785,  #181830);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Brygada 1918', serif;
+  
+}
+body  {
+    background-image: url("https://w0.peakpx.com/wallpaper/197/259/HD-wallpaper-gray-texture-painting-abstract.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+ 
+  }
+textarea {
+    width: 50%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+    
+}
+
+  body {
+    margin: right;
+  }
+  iframe { 
+    float: right;
+    margin-right: 15px;
+  }
+ 
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 80px;
+    width: 100%;
+    background-color: rgb(8, 5, 34);
+    color: white;
+    text-align: center;
+    
+  }
+  
