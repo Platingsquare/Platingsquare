@@ -76,9 +76,9 @@ I'm always open to interesting projects — especially anything involving **embe
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:platingsquare@proton.me)
 [![GitHub](https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Platingsquare)
-
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-morrow-968a38210/)
 </div>
 
 ---
