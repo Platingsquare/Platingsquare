@@ -61,10 +61,10 @@ When I'm not flashing firmware or wiring up a breadboard, you'll probably find m
 | 🖥️ Self-Hosting & Homelab | Always expanding  |
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
-<!-- 👇 REPLACE YOUR-FIRST-REPO AND YOUR-SECOND-REPO WITH YOUR ACTUAL REPO NAMES -->
+<!-- 👇 REPLACE YOUR-FIRST-REPO AND YOUR-SECOND-REPO WITH YOUR ACTUAL REPO NAMES 
 
 <div align="center">
 
@@ -80,7 +80,7 @@ When I'm not flashing firmware or wiring up a breadboard, you'll probably find m
 ---
 
 <div align="center">
-
+-->
 ## 📊 GitHub Stats
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Platingsquare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
