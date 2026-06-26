@@ -88,8 +88,8 @@ When I'm not flashing firmware or wiring up a breadboard, you'll probably find m
 
 <br/><br/>
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Platingsquare&theme=onestars&no-frame=true&column=7&margin-w=15&margin-h=15" />
+<!-- GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Platingsquare&theme=onestars&no-frame=true&column=7&margin-w=15&margin-h=15" />  -->
 
 <br/><br/>
 
