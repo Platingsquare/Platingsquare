@@ -39,7 +39,7 @@ When I'm not flashing firmware or debugging breadboards, you'll find me training
 
 | Current | Target | Focus Areas |
 |---------|--------|-------------|
-| **IoT25 Program**<br>*Systemutvecklare inbyggda system*<br>Sweden · 2026–2028 | **University Admission**<br>KTH Sweden \| MIT \| NYU \| Stanford USA | Embedded Systems<br>C++/Rust/Python<br>Cybersecurity Standards<br>Low-Level Programming<br>ETSI EN Compliance (Vuln Mgmt, Auth, Testing) |
+| **IoT25 Program**<br>*Systemutvecklare inbyggda system*<br>Sweden · 2025–2027 | **University Admission**<br>KTH Sweden \| MIT \| NYU \| Stanford USA | Embedded Systems<br>C++/Rust/Python<br>Cybersecurity Standards<br>Low-Level Programming<br>ETSI EN Compliance (Vuln Mgmt, Auth, Testing) |
 
 ### Upcoming Courses (Late 2026)
 
