@@ -141,7 +141,7 @@ Working prototypes > finished showcases. Here's what's shipping right now:
 | Focus Area | Status | Key Milestones |
 |------------|--------|----------------|
 | 🔧 Embedded C/C++ Mastery | Actively diving deeper | Memory safety patterns, interrupt handling |
-| 🦀 Rust for Embedded (`no_std`) | Exploring | Porting core libraries from C, async runtime integration |
+| 🦀 Rust for Embedded | Completing bootcamp version | Porting core libraries from C, async runtime integration ✅ Blink LED on STM32 |
 | 🖥️ Self-Hosting Scale-Up | Expanding homelab | Kubernetes clusters, automated backups, security hardening |
 | 📐 Mathematics Foundation | Study track | Calculus, Trigonometry, Trachtenberg mental math system |
 | 🔒 Cybersecurity Certifications | Future goal | OSCP, CEH aligned with ETSI framework requirements |
