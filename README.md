@@ -116,7 +116,7 @@ I'm always open to interesting projects — especially anything involving **embe
 <div align="center">
 
 ### ⚡ Fun Fact
-*I wire up more things on a breadboard than I do in real life.*
+*Entropy increases naturally; organization requires firmware updates*
 
 </div>
 
