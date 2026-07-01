@@ -97,7 +97,7 @@ When I'm not flashing firmware or debugging breadboards, you'll find me training
 Fluent foundation meets disciplined daily immersion. Progress tracked because ADHD brains need visible wins.
 
 | Language | Proficiency | Resources Being Used | 
-|----------|-------------|---------------------|---------------------|
+|----------|-------------|---------------------|
 | 🇺🇸 English | Native/Bilingual | Working language, docs native | 
 | 🇸🇪 Swedish | Fluent | Technical exam prep, literature | 
 | 🇯🇵 Japanese |  | <!-- Migaku Lifetime, MaruMori, Minna no Nihongo, GameGengo, YouTube (Japanese with Yan), Lingopie --> 
