@@ -159,7 +159,15 @@ Open to projects involving **embedded systems**, **IoT protocols**, **low-level 
 [![GitHub Follow](https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Platingsquare)
 
 </div>
+---
 
+## Current Learning Resources 📚
+ - RUST | - [["The Embedded Rust Book"](https://docs.rust-embedded.org/book/)] — Official handbook 
+ - RUST | - > - [`_embedded-book`](https://github.com/japaric/rust-embedded-course) — Japaric's bare-metal course
+ - Coding | [Exercism](https://exercism.org/tracks/cpp)
+ - Coding | [Codewars](https://www.codewars.com/users/Platingsquare)
+ - More to be added
+</div>
 ---
 
 ## ⚡ Truths I've Learned So Far
